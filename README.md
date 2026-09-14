@@ -220,3 +220,6 @@ Amazon Photos is offered as a complete free version, ensuring you have access to
 - 📧 **[Support](mailto:support@www.softyne.com)**
 - 📖 **[Documentation](https://www.softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://www.softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-14 08:36:13 UTC
